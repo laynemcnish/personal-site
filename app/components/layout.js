@@ -26,7 +26,7 @@ export default class Layout extends PureComponent {
 
   renderAssistanceQuestion () {
     return (
-      <p><i className="fa fa-hand-o-left" /> This is the homepage!</p>
+      <p><i className="fa fa-hand-o-left" /> This is the homepage! Blah Blah</p>
     );
   }
 }
